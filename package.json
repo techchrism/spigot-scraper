@@ -1,0 +1,16 @@
+{
+  "name": "spigot-scraper",
+  "version": "0.0.1",
+  "description": "A website scraper for spigotmc.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Techdoodle",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "cloudscraper": "git://github.com/bestplay9384/cloudscraper.git",
+    "request": "^2.88.2"
+  }
+}
